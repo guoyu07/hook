@@ -1,0 +1,11 @@
+{
+  "name": "tebe/hook",
+  "description": "A simple hook class for building a plugin system or similar use cases.",
+  "keywords": ["php", "hook", "plugin"],
+  "license": "BSD-3-Clause",
+  "autoload": {
+    "psr-4": {
+      "Tebe\\": "src/"
+    }
+  }
+}
